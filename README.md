@@ -70,7 +70,7 @@ This project analyzes a raw Airbnb bookings dataset to answer key questions abou
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+  (https://github.com/chari532/airbnb-nyc-eda.git)
    cd <repo-name>
    ```
 2. Install dependencies
