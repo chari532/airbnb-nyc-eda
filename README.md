@@ -97,7 +97,7 @@ This project analyzes a raw Airbnb bookings dataset to answer key questions abou
 
 RACHAKONDA SIVA NAGA BRAHMACHARI.
 
-LinkedIn: linkedin.com/in/rsivachari | GitHub: https://github.com/chari532
+LinkedIn: https://linkedin.com/in/rsivachari | GitHub: https://github.com/chari532
 
 ## 📄 License
 
