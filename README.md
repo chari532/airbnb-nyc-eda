@@ -67,19 +67,13 @@ This project analyzes a raw Airbnb bookings dataset to answer key questions abou
 *(Charts for each analysis are available in the `/charts` folder of this repo.)*
 
 ## 🚀 How to Run
-
-1. Clone this repository
-   ```bash
-  (https://github.com/chari532/airbnb-nyc-eda.git)
-   cd <repo-name>
-   ```
-2. Install dependencies
+1. Install dependencies
    ```bash
    pip install pandas numpy matplotlib seaborn
    ```
-3. Open the notebook in Jupyter or upload it to Google Colab
-4. Update the CSV file path to match your local/Colab environment
-5. Run all cells
+2. Open the notebook in Jupyter or upload it to Google Colab
+3. Update the CSV file path to match your local/Colab environment
+4. Run all cells
 
 ## 📁 Repository Structure
 
